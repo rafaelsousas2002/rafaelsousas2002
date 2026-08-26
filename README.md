@@ -16,6 +16,6 @@ Em breve, projetos práticos voltados à tecnologia, dados, automação e aplica
 - Excel
 - Power BI
 - Python
-- ## Contato
+  ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/rafael-sousa-santos-048150205/)
