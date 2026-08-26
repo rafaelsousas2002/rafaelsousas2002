@@ -8,3 +8,6 @@ Minha trajetória combina conhecimentos de Logística com o desenvolvimento de n
 
 - 🎓 Tecnologia em Logística
 - 💻 Análise e Desenvolvimento de Sistemas — em andamento
+## Projetos em destaque
+
+Em breve, projetos práticos voltados à tecnologia, dados, automação e aplicação de soluções para problemas reais.
