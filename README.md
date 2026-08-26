@@ -11,3 +11,11 @@ Minha trajetória combina conhecimentos de Logística com o desenvolvimento de n
 ## Projetos em destaque
 
 Em breve, projetos práticos voltados à tecnologia, dados, automação e aplicação de soluções para problemas reais.
+## Tecnologias e ferramentas
+
+- Excel
+- Power BI
+- Python
+- ## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/rafael-sousa-santos-048150205/)
